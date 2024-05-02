@@ -5,7 +5,7 @@ Specifically, the implementation includes:
 *	Ray-tracing: defining geometry, computing ray intersections, casting shadows, reflections, refractions, and Fresnel.
 *	Rasterization: Projection, clipping, rasterization, interpolation, z-buffering, texturing, and antialiasing.
 
-Click on the pictures to access the demo videos on Youtube.
+Code not shared due to class material. Click on the pictures to access the demo videos on Youtube.
 
 ## Ray-tracing
 [![](https://github.com/XDDz123/rendering-demos/assets/20507222/dbd46ed6-916f-43b6-ba0e-0ddbb8bfb721)](https://www.youtube.com/watch?v=Y4UVl8pibXA)
